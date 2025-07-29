@@ -1,13 +1,20 @@
-# SQL_Project
-<b>Music Store Data Analysis</b>
-<!DOCTYPE html>
-<html>
-<body>
-    <b>Project Description</b><br><br>
-    <b>Project Title:</b> Music Store Data Analysis with SQL Server Management Studio (SSMS)<br><br>
-    <b>Objective:</b> To analyze customer spending patterns and identify top-performing artists and genres using SQL queries.<br><br>
-    <b>Data Source:</b> The project utilizes a sample music store database containing tables such as customer, invoice, invoice_line, track, album, artist, and genre.<br><br>
-    <b>Tools Used:</b> SQL Server Management Studio (SSMS) for querying and data analysis.<br><br>
-    <b>Key Analysis:</b> Identified the best-selling artist, top customers by country, and the most popular genres to provide insights into sales performance.<br><br>
-</body>
-</html>
+# SQL_Project2 – Data Analysis
+
+This project explores business insights using SQL on a sample database, focusing on customer behavior, sales, and music preferences. The goal is to derive meaningful insights using advanced SQL queries including joins, aggregations, and window functions.
+
+## Key Insights
+
+- Identified the **senior-most employee** based on job title hierarchy.
+- Found the **country with the most invoices**, highlighting major markets.
+- Determined the **city generating the highest revenue** to guide event planning.
+- Revealed the **top-spending customer**, useful for loyalty programs.
+- Discovered the **most popular music genre per country**, aiding regional targeting.
+
+## 🛠 Tools Used
+
+- SQL Server Management Studio (SSMS)
+- SQL (Joins, CTEs, Aggregates, Window Functions)
+
+---
+
+This case study demonstrates data-driven problem-solving skills and SQL proficiency for real-world business scenarios.
